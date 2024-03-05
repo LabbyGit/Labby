@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Labbyyy
 - 👀 I’m interested in Web-Dev
-- 🌱 I’m currently learning JS and Frameworks
+- 🌱 I’m currently learning JS, PHP and Frameworks
 - 💞️ I’m looking to collaborate on -
 
 <!---
