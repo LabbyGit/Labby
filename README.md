@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Labbyyy
+- 👋 Hi, I’m Sascha
 - 👀 I’m interested in Web-Dev
 - 🌱 I’m currently learning JS, PHP and Frameworks
 - 💞️ I’m looking to collaborate on -
